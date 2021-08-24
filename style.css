@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  width: 100%;
+}
+.picture1 {
+  background-image: url(../../Downloads/chapter6_exercise/img/box1.jpg);
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+}
+
+.picture2 {
+  background-image: url(../../Downloads/chapter6_exercise/img/box2.jpg);
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+}
+
+.picture3 {
+  background-image: url(../../Downloads/chapter6_exercise/img/box3.jpg);
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+}
+
+.picture4 {
+  background-image: url(../../Downloads/chapter6_exercise/img/box4.jpg);
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+}
